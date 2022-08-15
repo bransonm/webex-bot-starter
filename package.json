@@ -2,7 +2,7 @@
   "name": "Webex-Bot-Starter",
   "version": "1.0.0",
   "description": "Starter template for creating a Webex Teams bot",
-  "main": "index.js",
+  "main": "/indexfile/index.js",
   "scripts": {
     "start": "npm install && node --use_strict index.js"
   },
