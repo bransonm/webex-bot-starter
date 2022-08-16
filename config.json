@@ -1,5 +1,5 @@
 {
-    "webhookUrl": "http://test.ngrok.io",
+    "webhookUrl": "http://webexbot-fyyivn-webexbot.apps.na410.prod.nextcle.com",
     "token": "token valueREPLACE_THIS_WITH_YOUR_BOT_API_KEY",
     "port": 7001
   }
